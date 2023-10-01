@@ -1,6 +1,8 @@
 # Editors
 .vscode/
 .idea/
+.pytest_cache
+
 
 # Mac/OSX
 .DS_Store
