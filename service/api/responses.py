@@ -1,8 +1,8 @@
 from pydantic import BaseModel
 
 from .exceptions import (
-    NotAuthorizedError,
     ModelNotFoundError,
+    NotAuthorizedError,
     UserNotFoundError,
 )
 
